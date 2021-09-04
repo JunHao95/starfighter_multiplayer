@@ -1,0 +1,6 @@
+Tasks
+
+Add menu control for going both down and up options
+Only cycle through multiplayer options if multiplayer options selected
+Only show if client option selected Textbook value
+Move up in line with server IP address
